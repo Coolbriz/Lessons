@@ -1,0 +1,48 @@
+@import url('reset.css');
+@import url('font.css');
+
+body {
+ font-family:'Quicksand', sans-serif;
+ color: #fff;
+ background-color: #787878;
+}
+
+     /***  wrapper  ***/
+     
+.wrapper{
+ min-height: 100%;
+}
+
+   /**   nav   **/
+.nav{}
+
+.nav__items{}
+
+
+   /**  page  **/
+.page{
+ padding-inline: 40px;
+}
+
+.block{
+ margin-block-end: 40px;
+ padding: 20px;
+ background: #77608d;
+}
+
+.inline{
+ display: inline;
+ background: #7a956b;
+}
+.inlin p{
+ font-size: 16px;
+}
+
+.inline-block{
+ margin-top: 40px;
+ padding: 20px;
+ background: #794f45;
+}
+
+   /**   footer  **/
+.footer{}
